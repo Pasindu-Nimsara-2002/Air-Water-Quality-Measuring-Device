@@ -73,11 +73,6 @@ The device firmware is written in C and runs on the AVR microcontroller. It hand
 4. **Measure Water Quality**:
    - Navigate to the Water Quality menu to select between pH, Conductivity, or Water Temperature readings.
 
-## Calibration
-
-- **MQ-9 Calibration**: Adjust the `Ro` value based on the ambient air calibration.
-- **MQ-135 Calibration**: Adjust the `Ro_MQ135` value based on the ambient air calibration.
-
 ## Troubleshooting
 
 - **No Data Displayed**: Check sensor connections and ensure sensors are powered correctly.
