@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=5V Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=5V Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=Turbidity Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=Left-1
+Removed Pin From Net: NetName=GND Pin=Right-1
+Removed Pin From Net: NetName=GND Pin=T1-3
+Removed Pin From Net: NetName=5V Pin=X4-1
+Removed Pin From Net: NetName=5V Pin=X7-1
+Removed Member From Class: ClassName=Main0 Member=Left
+Removed Member From Class: ClassName=Main0 Member=Right
+Removed Member From Class: ClassName=Main0 Member=X7
+Change Component Footprint: Designator=Power Old Footprint=JST_B2B-XH-A(LF)(SN) New Footprint=terminalbox
+Change Component Comment : Designator=Power Old Comment=B2B-XH-A(LF)(SN) New Comment=TB006-508-02BE
+Change Component Comment : Designator=J5 Old Comment=CO2/VOC_Sensor New Comment=Temperature_Sensor
+Change Component Comment : Designator=J6 Old Comment=PM2.5_Sensor New Comment=Turbidity_Sensor
+Change Component Comment : Designator=J7 Old Comment=Turbidity_Sensor New Comment=MQ9
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J6 NewDesignator=J2
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change component parameters: Designator = "Power" ("Power"); Footprint = "JST_B2B-XH-A(LF)(SN)"; UniqueID = "\MRLMOTOJ" ("\MRLMOTOJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.315, 50=0.315, 100=0.301, 1000=0.21, 10000=0.175 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "47338"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "490-TB006-508-02BE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X4" ("X4"); Footprint = "RESC3216X60N"; UniqueID = "\ZJQZNVJB" ("\ZJQZNVJB")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/VISH/VISH-S-A0011718072/VISH-S-A0011718072-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCC1206220RFKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-RCC1206220RFKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC1206220RFKEA?qs=IS%252B4QmGtzzrRn9QnSak10Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=J7(JST_B3B-XH-A (LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=5V Pin=J2-2
+Added Pin To Net: NetName=Turbidity Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=5V Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=Power-2
+Added Pin To Net: NetName=5V Pin=X4-2
+Added Pin To Net: NetName=DHT_11_A Pin=J5-2
+Added Pin To Net: NetName=DHT_11_A Pin=U1-28
+Added Net: Name=DHT_11_A
+Added Pin To Net: NetName=DHT_11_D Pin=J5-3
+Added Pin To Net: NetName=DHT_11_D Pin=U1-12
+Added Net: Name=DHT_11_D
+Added Pin To Net: NetName=MQ_9 Pin=J6-3
+Added Pin To Net: NetName=MQ_9 Pin=U1-26
+Added Net: Name=MQ_9
+Added Pin To Net: NetName=MQ_135 Pin=J7-3
+Added Pin To Net: NetName=MQ_135 Pin=U1-27
+Added Net: Name=MQ_135
+Added Pin To Net: NetName=Turbidity_D Pin=J2-4
+Added Pin To Net: NetName=Turbidity_D Pin=U1-13
+Added Pin To Net: NetName=Turbidity_D Pin=X4-1
+Added Net: Name=Turbidity_D
+Added Member To Class: ClassName=Main0 Member=Component Power TB006-508-02BE

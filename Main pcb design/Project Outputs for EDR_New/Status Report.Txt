@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [EDR_New.PrjPcb]
+   Generated File[Pick Place for EDR_New.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:18:47 PM On 4/21/2024

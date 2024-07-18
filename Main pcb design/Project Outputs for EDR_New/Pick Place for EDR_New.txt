@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+F:\Altium\EDR_New\Project Outputs for EDR_New\Pick Place for EDR_New.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/04/24
+Time:       19:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer    Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                                                  
+J7         MQ135                 TopLayer JST_B3B-XH-A_(LF)(SN)           1951.575      3675.000      180      "Connector Header Through Hole 3 position 0.098 (2.50mm)"                                                    
+Y1         ECS-160-20-4_1        TopLayer Oscillator                      2303.937      2250.000      180      ""                                                                                                           
+X6         RCC1206220RFKEA       TopLayer RESC3216X60N                    2425.000      2450.000      180      "Thick Film Resistors - SMD 220ohms 1% 100ppm"                                                               
+X5         RCC1206220RFKEA       TopLayer RESC3216X60N                    2215.945      2450.000      180      "Thick Film Resistors - SMD 220ohms 1% 100ppm"                                                               
+X4         RCC1206220RFKEA       TopLayer RESC3216X60N                    1825.000      3000.000      180      "Thick Film Resistors - SMD 220ohms 1% 100ppm"                                                               
+X3         RCC1206220RFKEA       TopLayer RESC3216X60N                    1840.945      3250.000      180      "Thick Film Resistors - SMD 220ohms 1% 100ppm"                                                               
+X2         RCC1206220RFKEA       TopLayer RESC3216X60N                    2109.055      3250.000      180      "Thick Film Resistors - SMD 220ohms 1% 100ppm"                                                               
+X1         TS04-66-65-BK-160-SMT TopLayer TS046665BK160SMT                1425.000      2975.000      0        "Tactile Switches 6 x 6 mm, 6.5 mm Act Height, 160 gf, Black, Surface Mount, SPST,"                          
+Up         B2B-XH-A(LF)(SN)      TopLayer JST_B2B-XH-A(LF)(SN)            2700.787      3275.000      180      "Connector Header Through Hole 2 position 0.098 (2.50mm)"                                                    
+U1         ATmega328P-AU         TopLayer 32A_M                           2242.323      2810.237      0        "8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)" 
+R1         RC1206FR-0710KL       TopLayer RESC3116X65X40ML10T20           2350.000      3250.000      0        "Chip Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 1206 (3216 Metric), RoHS, Tape and Reel"           
+Power      TB006-508-02BE        TopLayer terminalbox                     1500.000      3400.000      270      "Barrier Strip Terminal Block"                                                                               
+Ok         B2B-XH-A(LF)(SN)      TopLayer JST_B2B-XH-A(LF)(SN)            2950.787      2975.000      180      "Connector Header Through Hole 2 position 0.098 (2.50mm)"                                                    
+J8         B6B-XH-A(LF)(SN)      TopLayer JST_B6B-XH-A(LF)(SN)            2996.063      2250.000      0        "Connector Header Through Hole 6 position 0.098 (2.50mm)"                                                    
+J6         MQ9                   TopLayer JST_B3B-XH-A_(LF)(SN)           2425.000      3670.670      180      "Connector Header Through Hole 3 position 0.098 (2.50mm)"                                                    
+J2         Turbidity_Sensor      TopLayer JST_B4B-XH-A(LF)(SN)            3427.362      2925.000      0        "Connector Header Through Hole 4 position 0.098 (2.50mm)"                                                    
+J5         Temperature_Sensor    TopLayer JST_B4B-XH-A(LF)(SN)            2922.638      3675.000      180      "Connector Header Through Hole 4 position 0.098 (2.50mm)"                                                    
+J4         Conductivity_Sensor   TopLayer JST_B3B-XH-A_(LF)(SN)           3425.000      3323.425      270      "Connector Header Through Hole 3 position 0.098 (2.50mm)"                                                    
+J3         Display               TopLayer JST_B4B-XH-A(LF)(SN)            1550.000      2475.788      90       "Connector Header Through Hole 4 position 0.098 (2.50mm)"                                                    
+J1         PH_Sensor             TopLayer JST_B3B-XH-A_(LF)(SN)           3475.000      2550.000      0        "Connector Header Through Hole 3 position 0.098 (2.50mm)"                                                    
+Down       B2B-XH-A(LF)(SN)      TopLayer JST_B2B-XH-A(LF)(SN)            3075.000      3270.670      180      "Connector Header Through Hole 2 position 0.098 (2.50mm)"                                                    
+Cancel     B2B-XH-A(LF)(SN)      TopLayer JST_B2B-XH-A(LF)(SN)            2999.213      2575.000      0        "Connector Header Through Hole 2 position 0.098 (2.50mm)"                                                    
+C5         12065A220JAT2A        TopLayer FP-1206-L_3_2_0_2-W_1_6_0-IPC_C 1848.788      2225.000      0        "General Purpose Ceramic Capacitor, 1206, 22pF, 5%, NP0, 30ppm/°C, 50V"                                      
+C4         12065A220JAT2A        TopLayer FP-1206-L_3_2_0_2-W_1_6_0-IPC_C 1851.212      2425.000      0        "General Purpose Ceramic Capacitor, 1206, 22pF, 5%, NP0, 30ppm/°C, 50V"                                      
+C3         CC1206KRX7R9BB104     TopLayer FP-CC1206-1_25-MFG              2625.000      2900.000      90       "CAP CER 0.1UF 50V X7R 1206"                                                                                 
+C2         C1206C106K8RAC        TopLayer CAPC3216X180N                   2625.000      2700.000      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10V 10uF X7R 1206 0.1"                                         
+C1         C1206C106K8RAC        TopLayer CAPC3216X180N                   1840.000      2700.000      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10V 10uF X7R 1206 0.1"                                         
