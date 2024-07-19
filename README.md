@@ -78,10 +78,6 @@ The device firmware is written in C and runs on the AVR microcontroller. It hand
 - **No Data Displayed**: Check sensor connections and ensure sensors are powered correctly.
 - **Inaccurate Readings**: Ensure proper calibration of sensors and check for environmental factors affecting measurements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The DHT11 and DS18B20 libraries used in this project are developed by their respective authors.
